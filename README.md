@@ -1,4 +1,4 @@
-# Python DataQuest Competition - Day 4
+# Python DataQuest Competition 
 
 ## Objective
 This project is part of the Python DataQuest Competition, which involves completing three data manipulation tasks using Python libraries like Pandas, Matplotlib, and the CSV module. The tasks focus on data analysis, cleaning, visualization, and handling CSV files within a 2-hour timeframe.
